@@ -1,5 +1,6 @@
 # Horiseon SEO
 
+## Description
 Learn more about how you can optimize your website with helpful stragies such as:
 
 - Search Engine Optimization
