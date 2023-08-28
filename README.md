@@ -10,6 +10,6 @@ Learn more about how you can optimize your website with helpful stragies such as
 
 [Check out our site below to learn more!](https://opeezy.github.io/horiseon-seo/)
 
-![horiseon main page](assets/01-html-css-git-homework-demo.png)
+![horiseon main page](Assets/01-html-css-git-homework-demo.png)
 
 
